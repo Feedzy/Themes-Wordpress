@@ -1,23 +1,18 @@
-.header
-{
-  background: #c31432;
-  background: -webkit-linear-gradient(to right, #240b36, #c31432);
-  background: linear-gradient(to right, #240b36, #c31432);
+.header {
+  background: #377bb5;
 }
-#navigation-principale li
-{
+#navigation-principale li {
   position: relative;
   display: inline-block;
   padding: 10px;
   font-weight: 500;
 }
-#navigation-principale li a
-{
+#navigation-principale li a {
   color: #fff;
 }
 .jumbotron
 {
-  background-image: url('../image/writing-content-notes-ss-1920.jpg');
+  background-image: url('../img/about-1.jpg');
   height: 25em;
 }
 /* card details start  */
